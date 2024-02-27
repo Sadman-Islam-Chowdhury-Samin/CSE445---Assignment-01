@@ -1,4 +1,4 @@
-# CSE445---Assignment-01
+# CSE445---Assignment-01 -- Multivariate linear regression
 Perform Multivariate linear regression using gradient descent on the Air Quality dataset and report Mean Squared Error (MSE) for training and testing dataset.
 <br>
 The final Data Sheet is air.csv. <br>
